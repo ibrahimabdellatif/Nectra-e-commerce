@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         setTheme(R.style.Theme_AppCompat)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.intro_layout)
-        
+
     }
 }

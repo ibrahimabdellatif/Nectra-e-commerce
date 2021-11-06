@@ -53,6 +53,7 @@
         tools:ignore="MissingConstraints" />
 
     <Button
+        android:id="@+id/btnGetStarted"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="30.5dp"

@@ -32,7 +32,7 @@
         tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/tv_hint_signup"
+        android:id="@+id/tv_hint_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
@@ -50,7 +50,7 @@
         android:layout_marginTop="12dp"
         android:text="Username"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_hint_signup"
+        app:layout_constraintTop_toBottomOf="@+id/tv_hint_login"
         tools:ignore="MissingConstraints" />
 
     <EditText
@@ -192,7 +192,7 @@
             android:textColor="@color/black"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/btn_signup"
+            app:layout_constraintTop_toBottomOf="@id/btn_signin"
             tools:ignore="MissingConstraints,NotSibling" />
 
         <TextView

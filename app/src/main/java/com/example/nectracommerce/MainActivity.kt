@@ -8,7 +8,7 @@ import androidx.navigation.ui.NavigationUI
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        setTheme(R.style.Theme_AppCompat)
+//        setTheme(R.style.Theme_AppCompat)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 

@@ -8,11 +8,13 @@
         <entry key="app/src/main/res/drawable/carrotforsplash.xml" value="0.27037037037037037" />
         <entry key="app/src/main/res/drawable/ic_carrot.xml" value="0.1648148148148148" />
         <entry key="app/src/main/res/drawable/ic_cart.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/drawable/rouned_edit_text.xml" value="0.19814814814814816" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.2111111111111111" />
         <entry key="app/src/main/res/font-v26/gilroy.xml" value="0.2222222222222222" />
         <entry key="app/src/main/res/font/gilroy.xml" value="0.2222222222222222" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1514690982776089" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.15881458966565348" />
+        <entry key="app/src/main/res/layout/exclusive_offer_item.xml" value="0.2645569620253165" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_logging.xml" value="0.22" />
         <entry key="app/src/main/res/layout/fragment_loging.xml" value="0.15881458966565348" />
         <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
